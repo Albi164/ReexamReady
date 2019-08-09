@@ -1,0 +1,4 @@
+{
+  "mongoString": "mongodb+srv://albi123:albi123@cluster0-ihrbv.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}

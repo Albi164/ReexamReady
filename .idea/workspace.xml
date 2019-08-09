@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b96b2cfa-b119-472c-aaea-67feb00ef68b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="69" column="40" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schemas/Programs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/components/Login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/components/TvChannels.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="15" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/components/Program.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/components/FavoriteList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="14" column="75" lean-forward="true" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/src/components/Categories.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#67#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/api/favorite.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>babel</find>
+      <find>program</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/frontend/src/App.css" />
+        <option value="$PROJECT_DIR$/frontend/src/actions/actionTypes.js" />
+        <option value="$PROJECT_DIR$/frontend/src/reducers/user.js" />
+        <option value="$PROJECT_DIR$/frontend/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/frontend/src/reduxStore.js" />
+        <option value="$PROJECT_DIR$/routes/api/locations.js" />
+        <option value="$PROJECT_DIR$/schemas/Locations.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Job.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Objects.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/objects.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Categories.js" />
+        <option value="$PROJECT_DIR$/authentication.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/LoginSuccess.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Locations.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/JobPosts.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Caterories.test.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Post.test.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/setuptests.js" />
+        <option value="$PROJECT_DIR$/frontend/src/App.test.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Post.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Login.test.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Categories.test.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/frontend/src/components/AuthServise.js" />
+        <option value="$PROJECT_DIR$/schemas/Jobs.js" />
+        <option value="$PROJECT_DIR$/schemas/Category.js" />
+        <option value="$PROJECT_DIR$/routes/api/categories.js" />
+        <option value="$PROJECT_DIR$/routes/api/jobs.js" />
+        <option value="$PROJECT_DIR$/routes/api/tvchannels.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Navigation.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Login.js" />
+        <option value="$PROJECT_DIR$/schemas/User.js" />
+        <option value="$PROJECT_DIR$/routes/api/favorites.js" />
+        <option value="$PROJECT_DIR$/schemas/Favorites.js" />
+        <option value="$PROJECT_DIR$/routes/api/users.js" />
+        <option value="$PROJECT_DIR$/routes/api/tvstations.js" />
+        <option value="$PROJECT_DIR$/babel.config.js" />
+        <option value="$PROJECT_DIR$/frontend/package.json" />
+        <option value="$PROJECT_DIR$/schemas/Favorite.js" />
+        <option value="$PROJECT_DIR$/schemas/TvStations.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/schemas/TvChannel.js" />
+        <option value="$PROJECT_DIR$/schemas/Programs.js" />
+        <option value="$PROJECT_DIR$/routes/api/programs.js" />
+        <option value="$PROJECT_DIR$/routes/api/tvchannel.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/TvChannels.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Programs.js" />
+        <option value="$PROJECT_DIR$/frontend/src/App.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Program.js" />
+        <option value="$PROJECT_DIR$/routes/api/favorite.js" />
+        <option value="$PROJECT_DIR$/frontend/src/components/FavoriteList.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="10" />
+    <option name="width" value="950" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="exam" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="exam" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="exam" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="exam" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="exam" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="routes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="exam" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="routes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="api" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="exam" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="schemas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="schemas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrazo\OneDrive\Plocha\School\Frameworks\exam\routes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/frontend/src/App.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.server.js" />
+      <item itemvalue="Node.js.App.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b96b2cfa-b119-472c-aaea-67feb00ef68b" name="Default Changelist" comment="" />
+      <created>1559413425853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559413425853</updated>
+      <workItem from="1559413428203" duration="12345000" />
+      <workItem from="1559462339309" duration="1357000" />
+      <workItem from="1559539865365" duration="784000" />
+      <workItem from="1559542634988" duration="19248000" />
+      <workItem from="1559587772357" duration="25769000" />
+      <workItem from="1559666449636" duration="1980000" />
+      <workItem from="1559716217498" duration="35672000" />
+      <workItem from="1559799238980" duration="19833000" />
+      <workItem from="1559848997208" duration="9282000" />
+      <workItem from="1559887618073" duration="17692000" />
+      <workItem from="1563712176584" duration="7025000" />
+      <workItem from="1564988679640" duration="29543000" />
+      <workItem from="1565075868933" duration="55993000" />
+      <workItem from="1565204873812" duration="41524000" />
+    </task>
+    <task id="LOCAL-00052" summary="FE linking logs19&#10;                      Adding favorite list 3">
+      <created>1565098831657</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1565098831657</updated>
+    </task>
+    <task id="LOCAL-00053" summary="FE linking logs20&#10;                      Adding favorite list 3">
+      <created>1565099513594</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1565099513594</updated>
+    </task>
+    <task id="LOCAL-00054" summary="FE linking logs21&#10;                      Adding favorite list 3">
+      <created>1565101050421</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1565101050421</updated>
+    </task>
+    <task id="LOCAL-00055" summary="FE linking logs21&#10;                      Adding favorite list 3">
+      <created>1565101398135</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1565101398135</updated>
+    </task>
+    <task id="LOCAL-00056" summary="FE linking logs22&#10;                      Adding favorite list 3">
+      <created>1565102227799</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1565102227799</updated>
+    </task>
+    <task id="LOCAL-00057" summary="FE linking logs24&#10;                      Adding favorite list 3">
+      <created>1565103821153</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1565103821153</updated>
+    </task>
+    <task id="LOCAL-00058" summary="FE linking logs25&#10;                      Adding favorite list 3">
+      <created>1565104100018</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1565104100018</updated>
+    </task>
+    <task id="LOCAL-00059" summary="FE linking logs26&#10;                      Adding favorite list 3">
+      <created>1565104334120</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1565104334120</updated>
+    </task>
+    <task id="LOCAL-00060" summary="FE linking logs26&#10;                      Adding favorite list 3">
+      <created>1565104589403</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1565104589403</updated>
+    </task>
+    <task id="LOCAL-00061" summary="FE linking logs27&#10;                      Adding favorite list 3">
+      <created>1565104794128</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1565104794128</updated>
+    </task>
+    <task id="LOCAL-00062" summary="FE linking logs28&#10;                      Adding favorite list 3">
+      <created>1565105091695</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1565105091695</updated>
+    </task>
+    <task id="LOCAL-00063" summary="FE linking logs29&#10;                      Adding favorite list 3">
+      <created>1565105340466</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1565105340466</updated>
+    </task>
+    <task id="LOCAL-00064" summary="FE linking logs30&#10;                      Adding favorite list 3">
+      <created>1565105686570</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1565105686570</updated>
+    </task>
+    <task id="LOCAL-00065" summary="FE linking logs31&#10;                      Adding favorite list 3">
+      <created>1565106207516</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1565106207516</updated>
+    </task>
+    <task id="LOCAL-00066" summary="FE linking logs32&#10;                      Adding favorite list 3">
+      <created>1565106455215</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1565106455216</updated>
+    </task>
+    <task id="LOCAL-00067" summary="FE linking logs33&#10;                      Adding favorite list 3">
+      <created>1565120472341</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1565120472341</updated>
+    </task>
+    <task id="LOCAL-00068" summary="FE linking logs34&#10;                      Adding favorite list 3">
+      <created>1565120870212</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1565120870212</updated>
+    </task>
+    <task id="LOCAL-00069" summary="FE linking logs35&#10;                      Adding favorite list 3">
+      <created>1565121102913</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1565121102913</updated>
+    </task>
+    <task id="LOCAL-00070" summary="FE linking logs36&#10;                      Adding favorite list 3">
+      <created>1565121618292</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1565121618292</updated>
+    </task>
+    <task id="LOCAL-00071" summary="                      Adding favorite list 4">
+      <created>1565122045417</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1565122045417</updated>
+    </task>
+    <task id="LOCAL-00072" summary="                      Adding favorite list 5">
+      <created>1565123421718</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1565123421718</updated>
+    </task>
+    <task id="LOCAL-00073" summary="                      Adding favorite list 6">
+      <created>1565123978642</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1565123978642</updated>
+    </task>
+    <task id="LOCAL-00074" summary="                      Adding favorite list 7">
+      <created>1565159378708</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1565159378708</updated>
+    </task>
+    <task id="LOCAL-00075" summary="                      Adding favorite list 8">
+      <created>1565159803594</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1565159803594</updated>
+    </task>
+    <task id="LOCAL-00076" summary="                      Adding favorite list 9">
+      <created>1565160270051</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1565160270051</updated>
+    </task>
+    <task id="LOCAL-00077" summary="                      Adding favorite list 10">
+      <created>1565160598470</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1565160598470</updated>
+    </task>
+    <task id="LOCAL-00078" summary="                      Adding favorite list 11">
+      <created>1565163544609</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1565163544609</updated>
+    </task>
+    <task id="LOCAL-00079" summary="                      Adding favorite list 12">
+      <created>1565164071258</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1565164071259</updated>
+    </task>
+    <task id="LOCAL-00080" summary="                      Adding favorite list 12">
+      <created>1565164252831</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1565164252831</updated>
+    </task>
+    <task id="LOCAL-00081" summary="                      Adding favorite list 13">
+      <created>1565167582799</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1565167582800</updated>
+    </task>
+    <task id="LOCAL-00082" summary="                      Adding favorite list 14">
+      <created>1565168131104</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1565168131104</updated>
+    </task>
+    <task id="LOCAL-00083" summary="                      Adding favorite list 15">
+      <created>1565168389120</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1565168389120</updated>
+    </task>
+    <task id="LOCAL-00084" summary="favorites BE">
+      <created>1565174739692</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1565174739692</updated>
+    </task>
+    <task id="LOCAL-00085" summary="favorites BE">
+      <created>1565185062940</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1565185062940</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Fixed BE">
+      <created>1565213171557</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1565213171558</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Checking FE">
+      <created>1565252580089</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1565252580089</updated>
+    </task>
+    <task id="LOCAL-00088" summary="sorting Fe">
+      <created>1565252893557</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1565252893557</updated>
+    </task>
+    <task id="LOCAL-00089" summary="sorting Fe1">
+      <created>1565253092285</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1565253092285</updated>
+    </task>
+    <task id="LOCAL-00090" summary="sorting Fe2">
+      <created>1565253432011</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1565253432011</updated>
+    </task>
+    <task id="LOCAL-00091" summary="sorting Fe2">
+      <created>1565253528271</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1565253528271</updated>
+    </task>
+    <task id="LOCAL-00092" summary="sorting Fe3">
+      <created>1565253809488</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1565253809488</updated>
+    </task>
+    <task id="LOCAL-00093" summary="sorting Fe4">
+      <created>1565254113705</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1565254113705</updated>
+    </task>
+    <task id="LOCAL-00094" summary="sorting Fe5">
+      <created>1565254458024</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1565254458024</updated>
+    </task>
+    <task id="LOCAL-00095" summary="sorting Fe6">
+      <created>1565254901992</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1565254901992</updated>
+    </task>
+    <task id="LOCAL-00096" summary="sorting Fe7">
+      <created>1565255533044</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1565255533044</updated>
+    </task>
+    <task id="LOCAL-00097" summary="sorting Fe8">
+      <created>1565267539675</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1565267539675</updated>
+    </task>
+    <task id="LOCAL-00098" summary="sorting Fe9">
+      <created>1565275638062</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1565275638062</updated>
+    </task>
+    <task id="LOCAL-00099" summary="sorting Fe9">
+      <created>1565280899797</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1565280899797</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Fixed?">
+      <created>1565298816644</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1565298816787</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="278047000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25512227" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4976867" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4976867" visible="true" weight="0.40409955" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50231326" side_tool="true" visible="true" weight="0.40409955" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25512227" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49930844" visible="true" weight="0.33089313" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006916" side_tool="true" weight="0.31955484" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="                      Adding favorite list 5" />
+    <MESSAGE value="                      Adding favorite list 6" />
+    <MESSAGE value="                      Adding favorite list 7" />
+    <MESSAGE value="                      Adding favorite list 8" />
+    <MESSAGE value="                      Adding favorite list 9" />
+    <MESSAGE value="                      Adding favorite list 10" />
+    <MESSAGE value="                      Adding favorite list 11" />
+    <MESSAGE value="                      Adding favorite list 12" />
+    <MESSAGE value="                      Adding favorite list 13" />
+    <MESSAGE value="                      Adding favorite list 14" />
+    <MESSAGE value="                      Adding favorite list 15" />
+    <MESSAGE value="favorites BE" />
+    <MESSAGE value="Fixed BE" />
+    <MESSAGE value="Checking FE" />
+    <MESSAGE value="sorting Fe" />
+    <MESSAGE value="sorting Fe1" />
+    <MESSAGE value="sorting Fe2" />
+    <MESSAGE value="sorting Fe3" />
+    <MESSAGE value="sorting Fe4" />
+    <MESSAGE value="sorting Fe5" />
+    <MESSAGE value="sorting Fe6" />
+    <MESSAGE value="sorting Fe7" />
+    <MESSAGE value="sorting Fe8" />
+    <MESSAGE value="sorting Fe9" />
+    <MESSAGE value="Fixed?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed?" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/api/programs.js</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/api/programs.js</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/api/programs.js</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/api/programs.js</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontend/src/serviceWorker.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/reducers/user.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/reduxStore.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/reducers/index.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/actions/actionTypes.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schemas/Locations.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Caterories.test.js" />
+    <entry file="file://$PROJECT_DIR$/routes/api/locations.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Post.test.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Post.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Login.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Locations.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/setuptests.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/LoginSuccess.js" />
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/objects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Navigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/AuthServise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api/favorites.js" />
+    <entry file="file://$PROJECT_DIR$/schemas/Favorites.js" />
+    <entry file="file://$PROJECT_DIR$/schemas/TvChannels.js" />
+    <entry file="file://$PROJECT_DIR$/schemas/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-503">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api/tvchannels.js" />
+    <entry file="file://$PROJECT_DIR$/authentication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/default.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api/tvchannel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schemas/TvChannel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schemas/Favorite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Programs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api/programs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/TvChannels.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="41" column="50" lean-forward="true" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="69" column="40" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schemas/Programs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api/favorite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Program.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/FavoriteList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="75" lean-forward="true" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Categories.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
